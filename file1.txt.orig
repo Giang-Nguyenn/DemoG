@@ -1,0 +1,13 @@
+master c1
+master c2
+master remote
+master c3
+master remote1.1
+
+
+<<<<<<< HEAD
+local
+=======
+
+remote
+>>>>>>> de2bae13604f53fd9d301916cb9f72b6394b6be3
